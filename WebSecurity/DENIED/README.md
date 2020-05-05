@@ -1,0 +1,19 @@
+# DENIED
+
+## Web Security -- 75 points
+
+### Description
+
+Sometimes websites are afraid of the terminator finding things out. http://{{server}}:{{port}} The flag is in flag.txt.
+
+### Hints
+
+* How can websites keep search engines from finding private information?
+* Sometimes the developers leave some comments that give you a hint about what to do...
+* You can use the cat command to read files
+
+
+### Write-up
+
+No write-up or walk-through has been published for this challenge yet.
+
