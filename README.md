@@ -93,7 +93,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
-| [Reverse Engineering 101](./ReverseEngineering/ReverseEngineering101/README.md) | 25 | |
+| [Reverse Engineering 101](./ReverseEngineering/ReverseEngineering101/README.md) | 25 | ✔️ |
 | [Lockbox](./ReverseEngineering/Lockbox/README.md) | 50 | |
 | [National Dex #65](./ReverseEngineering/NationalDex65/README.md) | 100 | |
 | [Read it and Weep](./ReverseEngineering/ReadItAndWeep/README.md) | 100 | |
