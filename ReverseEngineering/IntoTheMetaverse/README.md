@@ -15,4 +15,5 @@ We extracted the DRM module from a target device but haven't been able to revers
 
 ### Write-up
 
-[Write-up by starfleetcadet75](https://starfleetcadet75.github.io/writeups/2020/05/03/cyberstakes-into-the-metaverse.html)
+- [Write-up by starfleetcadet75](https://starfleetcadet75.github.io/writeups/2020/05/03/cyberstakes-into-the-metaverse.html)
+- [Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=1oRm529jI34&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG)

@@ -32,5 +32,3 @@ Reverse engineering can definitely be intimidating so we have a simple [RE101](.
 ### Write-up
 
 [Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=9dQFM5O4KFk&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9dQFM5O4KFk&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

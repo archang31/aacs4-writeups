@@ -96,9 +96,9 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Reverse Engineering 101](./ReverseEngineering/ReverseEngineering101/README.md) | 25 | ✔️ |
 | [Lockbox](./ReverseEngineering/Lockbox/README.md) | 50 | |
 | [National Dex #65](./ReverseEngineering/NationalDex65/README.md) | 100 | |
-| [Read it and Weep](./ReverseEngineering/ReadItAndWeep/README.md) | 100 | |
+| [Read it and Weep](./ReverseEngineering/ReadItAndWeep/README.md) | 100 | ✔️ |
 | [What's the Difference?](./ReverseEngineering/WhatsTheDifference/README.md) | 100 | |
-| [Library Card](./ReverseEngineering/LibraryCard/README.md) | 150 | |
+| [Library Card](./ReverseEngineering/LibraryCard/README.md) | 150 | ✔️ |
 | [Say What?](./ReverseEngineering/SayWhat/README.md) | 200 | |
 | [C&C Music Factory](./ReverseEngineering/CandCMusicFactory/README.md) | 300 | |
 | [CLRly just a crack-me](./ReverseEngineering/CLRlyJustACrackMe/README.md) | 300 | |
@@ -122,6 +122,6 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [The SQL Always Sucks](./WebSecurity/TheSQLAlwaysSucks/README.md) | 150 | |
 | [Cookie Monster](./WebSecurity/CookieMonster/README.md) | 200 | |
 | [I Have Caught You Now](./WebSecurity/IHaveCaughtYouNow/README.md) | 250 | |
-| [Extremely Malicious Language](./WebSecurity/ExtremelyMaliciousLanguage/README.md) | 300 | |
+| [Extremely Malicious Language](./WebSecurity/ExtremelyMaliciousLanguage/README.md) | 300 | ✔️ |
 | [Who Is That In That Mirror](./WebSecurity/WhoIsThatInThatMirror/README.md) | 300 | |
 | [FirstFail](./WebSecurity/FirstFail/README.md) | 400 | |

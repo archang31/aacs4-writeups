@@ -16,5 +16,4 @@ There is a sick [ CYBER MAP ](http://{{server}}/problem/{{port}}/). See if you c
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+[Video Walk-through by John Hammond](https://www.youtube.com/watch?v=kiGoOuuXWFI)

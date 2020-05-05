@@ -15,5 +15,4 @@ We have recovered a [liblibrary\_card.so](./liblibrary\_card.so) from the target
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+[Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=pyxxEmyGZCA&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG)

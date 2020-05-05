@@ -15,5 +15,4 @@ We've found a mysterious binary lying around... Can you read it's secrets? {{ser
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+[Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=aBKY4kfnY_c&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG)
