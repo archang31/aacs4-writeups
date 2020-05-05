@@ -17,7 +17,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 **Total Points:** 2475
 
 | Challenge Name               | Points  | Write-up |
-| -----------------------------|---------|---------|
+| -----------------------------|:-------:|:--------:|
 | [Binary Exploitation 101](./BinaryExploitation/BinaryExploitation101/README.md) | 50 | |
 | [Your Cup Overfloweth](./BinaryExploitation/MyCupOverfloweth/README.md) | 75 | |
 | [Hacker, Scan Thyself](./BinaryExploitation/HackerScanThyself/README.md) | 100 | |
@@ -36,7 +36,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 **Total Points:** 1040
 
 | Challenge Name               | Points  | Write-up |
-| -----------------------------|---------|---------|
+| -----------------------------|:-------:|:--------:|
 | [Rotate Me](./Cryptography/RotateMe/README.md) | 5 | |
 | [Really Senseless Admins](./Cryptography/ReallySenselessAdmins/README.md) | 35 | |
 | [Over Time: Paid](./Cryptography/OverTimePaid/README.md) | 50 | |
@@ -51,7 +51,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 **Total Points:** 1905
 
 | Challenge Name               | Points  | Write-up |
-| -----------------------------|---------|---------|
+| -----------------------------|:-------:|:--------:|
 | [Filing Extension](./Forensics/FilingExtension/README.md) | 10 | |
 | [Bootcamp](./Forensics/Bootcamp/README.md) | 20 | |
 | [Controlled Access](./Forensics/ControlledAccess/README.md) | 50 | |
@@ -72,7 +72,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 **Total Points:** 1830
 
 | Challenge Name               | Points  | Write-up |
-| -----------------------------|---------|---------|
+| -----------------------------|:-------:|:--------:|
 | [Distant Socializing](./Miscellaneous/DistantSocializing/README.md) | 2 | |
 | [Slacking Off](./Miscellaneous/StartSlacking/README.md) | 3 | |
 | [All Your Base Are Belong to Us](./Miscellaneous/AllYourBase/README.md) | 50 | |
@@ -92,7 +92,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 **Total Points:** 2125
 
 | Challenge Name               | Points  | Write-up |
-| -----------------------------|---------|---------|
+| -----------------------------|:-------:|:--------:|
 | [Reverse Engineering 101](./ReverseEngineering/ReverseEngineering101/README.md) | 25 | |
 | [Lockbox](./ReverseEngineering/Lockbox/README.md) | 50 | |
 | [National Dex #65](./ReverseEngineering/NationalDex65/README.md) | 100 | |
@@ -111,7 +111,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 **Total Points:** 1960
 
 | Challenge Name               | Points  | Write-up |
-| -----------------------------|---------|-----hnm vb----|
+| -----------------------------|:-------:|:--------:|
 | [Out of Site](./WebSecurity/OutOfSite/README.md) | 5 | |
 | [More Out of Site](./WebSecurity/MoreOutOfSite/README.md) | 10 | |
 | [Most Out of Site](./WebSecurity/MostOutOfSite/README.md) | 20 | |
