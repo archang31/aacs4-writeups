@@ -15,5 +15,4 @@ Sometimes websites are afraid of the terminator finding things out. http://{{ser
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+[Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/DENIED.md)

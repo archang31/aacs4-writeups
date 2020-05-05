@@ -15,5 +15,4 @@ We need you to perform geolocation analysis on this list of IPs. We have attribu
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+[Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Proxy-list.md)

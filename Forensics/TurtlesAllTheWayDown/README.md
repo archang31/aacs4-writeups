@@ -16,5 +16,4 @@ Early this morning, a breach occurred on the server hosting our next-gen drone d
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+[Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/turtles-all-the-way-down.md)

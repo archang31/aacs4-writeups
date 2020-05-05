@@ -15,5 +15,4 @@ We extracted the DRM module from a target device but haven't been able to revers
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+[Write-up by starfleetcadet75](https://starfleetcadet75.github.io/writeups/2020/05/03/cyberstakes-into-the-metaverse.html)

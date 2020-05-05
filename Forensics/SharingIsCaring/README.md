@@ -14,5 +14,4 @@ Hey Challanger. I know you're putting together that Veteran's Day presentation. 
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+[Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Sharing-Is-Caring.md)

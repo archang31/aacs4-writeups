@@ -14,5 +14,4 @@ We think someone has been attacking our web server, can you help us by finding t
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+[Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/i-see-you.md)
