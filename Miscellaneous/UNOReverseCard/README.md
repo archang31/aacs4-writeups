@@ -14,5 +14,4 @@ We've done it! We found an open service that will run code we give it! It looks 
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by flakjacket](https://github.com/flakjacket95/cyberstakes_2020/tree/master/misc/uno_reverse)

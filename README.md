@@ -27,7 +27,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [An Interesting Structure](./BinaryExploitation/AnInterestingStructure/README.md) | 250 | |
 | [Do you C what I C](./BinaryExploitation/DoYouCWhatIC/README.md) | 250 | ✔️ |
 | [Who Does This Belong To](./BinaryExploitation/WhoDoesThisBelongTo/README.md) | 250 | |
-| [Party ROPin in the House](./BinaryExploitation/PartyROPinInTheHouse/README.md) | 300 | |
+| [Party ROPin in the House](./BinaryExploitation/PartyROPinInTheHouse/README.md) | 300 | ✔️|
 | [Speed Racer](./BinaryExploitation/SpeedRacer/README.md) | 450 | |
 | [Look At The Totem](./BinaryExploitation/LookAtTheTotem/README.md) | 500 | |
 
@@ -44,7 +44,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Speak Plainly](./Cryptography/SpeakPlainly/README.md) | 150 | |
 | [Headpiece Silver](./Cryptography/HeadpieceSilver/README.md) | 200 | |
 | [We're Related](./Cryptography/WereRelated/README.md) | 250 | |
-| [Pigeon Holes](./Cryptography/PigeonHoles/README.md) | 350 | |
+| [Pigeon Holes](./Cryptography/PigeonHoles/README.md) | 350 | ✔️|
 
 ## [Forensics](./Forensics/README.md)
 
@@ -84,8 +84,8 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [I SEe You](./Miscellaneous/ISEeYou/README.md) | 200 | ✔️ |
 | [Partition Twice, Recover Once](./Miscellaneous/PartitionTwiceRecoverOnce/README.md) | 250 | |
 | [PassThis](./Miscellaneous/PassThis/README.md) | 250 | |
-| [Assembly Voyageur](./Miscellaneous/AssemblyVoyageur/README.md) | 300 | |
-| [UNO Reverse Card](./Miscellaneous/UNOReverseCard/README.md) | 300 | |
+| [Assembly Voyageur](./Miscellaneous/AssemblyVoyageur/README.md) | 300 | ✔️|
+| [UNO Reverse Card](./Miscellaneous/UNOReverseCard/README.md) | 300 | ✔️|
 
 ## [Reverse Engineering](./ReverseEngineering/README.md)
 
@@ -119,10 +119,10 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Let me INNNNNN](./WebSecurity/LetMeInnnnnn/README.md) | 40 | |
 | [No Escape](./WebSecurity/NoEscape/README.md) | 60 | |
 | [DENIED](./WebSecurity/DENIED/README.md) | 75 | ✔️ |
-| [Blame it on the Temp](./WebSecurity/BlameItOnTheTemp/README.md) | 150 | |
+| [Blame it on the Temp](./WebSecurity/BlameItOnTheTemp/README.md) | 150 | ✔️|
 | [The SQL Always Sucks](./WebSecurity/TheSQLAlwaysSucks/README.md) | 150 | |
 | [Cookie Monster](./WebSecurity/CookieMonster/README.md) | 200 | |
 | [I Have Caught You Now](./WebSecurity/IHaveCaughtYouNow/README.md) | 250 | |
 | [Extremely Malicious Language](./WebSecurity/ExtremelyMaliciousLanguage/README.md) | 300 | ✔️ |
 | [Who Is That In That Mirror](./WebSecurity/WhoIsThatInThatMirror/README.md) | 300 | |
-| [FirstFail](./WebSecurity/FirstFail/README.md) | 400 | |
+| [FirstFail](./WebSecurity/FirstFail/README.md) | 400 | ✔️|

@@ -16,4 +16,5 @@ There is a sick [ CYBER MAP ](http://{{server}}/problem/{{port}}/). See if you c
 
 ### Write-up
 
-[Video Walk-through by John Hammond](https://www.youtube.com/watch?v=kiGoOuuXWFI)
+- [Video Walk-through by John Hammond](https://www.youtube.com/watch?v=kiGoOuuXWFI)
+- [Write-up by flakjacket](https://github.com/flakjacket95/cyberstakes_2020/tree/master/web/extremely_malicious_language)

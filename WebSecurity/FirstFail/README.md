@@ -14,5 +14,4 @@ We are devloping a new secure password manager! Test it out here: http://{{serve
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by flakjacket](https://github.com/flakjacket95/cyberstakes_2020/tree/master/web/first_fail)

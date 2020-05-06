@@ -14,5 +14,4 @@ It's time for an adventure. [Begin your travels here](http://{{server}}:{{port}}
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by flakjacket](https://github.com/flakjacket95/cyberstakes_2020/tree/master/misc/assembly_voyageur)
