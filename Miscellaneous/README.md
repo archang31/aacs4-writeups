@@ -5,8 +5,6 @@
 
 | Challenge Name               | Points  | Concept |
 | -----------------------------|---------|---------|
-| [Distant Socializing](./DistantSocializing/README.md) | 2 | |
-| [Slacking Off](./StartSlacking/README.md) | 3 | |
 | [All Your Base Are Belong to Us](./AllYourBase/README.md) | 50 | |
 | [Move ZIG](./MoveZIG/README.md) | 75 | |
 | [Proxy List](./ProxyList/README.md) | 100 | |

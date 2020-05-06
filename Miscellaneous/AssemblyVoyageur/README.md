@@ -15,3 +15,4 @@ It's time for an adventure. [Begin your travels here](http://{{server}}:{{port}}
 ### Write-up
 
 - [Write-up by flakjacket](https://github.com/flakjacket95/cyberstakes_2020/tree/master/misc/assembly_voyageur)
+- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/assembly-voyageur)

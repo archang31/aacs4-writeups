@@ -15,6 +15,6 @@
 | [Turtles All the Way Down](./TurtlesAllTheWayDown/README.md) | 100 | |
 | [Boot Racer](./BootRacer/README.md) | 150 | |
 | [Sharing is Caring](./SharingIsCaring/README.md) | 250 | |
-| [Drill to the Center](./DrillToTheCenterOfTheEarth/README.md) | 300 | |
+| [Drill to the Center](./DrillToTheCenter/README.md) | 300 | |
 | [Needle in the Haystack](./NeedleInTheHaystack/README.md) | 300 | |
 | [Kids on the Block](./KidsOnTheBlock/README.md) | 400 | |

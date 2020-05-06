@@ -15,5 +15,4 @@ The 'dark web' is slow, dont't worry, it may take up to 60 seconds for the site 
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/who-is-that-in-that-mirror)

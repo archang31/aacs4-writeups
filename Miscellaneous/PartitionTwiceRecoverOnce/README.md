@@ -15,5 +15,4 @@ I think I may have overwritten my secure file store, do you think you could reco
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/partition-twice-recover-once)

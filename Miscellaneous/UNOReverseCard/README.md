@@ -15,3 +15,4 @@ We've done it! We found an open service that will run code we give it! It looks 
 ### Write-up
 
 - [Write-up by flakjacket](https://github.com/flakjacket95/cyberstakes_2020/tree/master/misc/uno_reverse)
+- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/uno-reverse-card)

@@ -16,5 +16,4 @@ There's something suspicious about how account logins happen on this server... ?
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/speak-plainly)

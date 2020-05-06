@@ -14,4 +14,5 @@ Hey Challanger. I know you're putting together that Veteran's Day presentation. 
 
 ### Write-up
 
-[Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Sharing-Is-Caring.md)
+- [Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Sharing-Is-Caring.md)
+- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/sharing-is-caring)

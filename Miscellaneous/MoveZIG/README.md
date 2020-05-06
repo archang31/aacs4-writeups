@@ -13,5 +13,4 @@ CATS is back at it on {{server}}:{{port}}. Only this time he's throwing 500 prob
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/move-zig)

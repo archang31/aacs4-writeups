@@ -20,15 +20,15 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
 | [Binary Exploitation 101](./BinaryExploitation/BinaryExploitation101/README.md) | 50 | |
-| [Your Cup Overfloweth](./BinaryExploitation/MyCupOverfloweth/README.md) | 75 | |
-| [Hacker, Scan Thyself](./BinaryExploitation/HackerScanThyself/README.md) | 100 | |
+| [Your Cup Overfloweth](./BinaryExploitation/YourCupOverfloweth/README.md) | 75 | |
+| [Hacker, Scan Thyself](./BinaryExploitation/HackerScanThyself/README.md) | 100 | ✔️ |
 | [Serial Killer](./BinaryExploitation/SerialKiller/README.md) | 100 | |
-| [Stack Check Fail Fail](./BinaryExploitation/StackCheckFailFail/README.md) | 150 | |
+| [Stack Check Fail Fail](./BinaryExploitation/StackCheckFailFail/README.md) | 150 | ✔️ |
 | [An Interesting Structure](./BinaryExploitation/AnInterestingStructure/README.md) | 250 | |
 | [Do you C what I C](./BinaryExploitation/DoYouCWhatIC/README.md) | 250 | ✔️ |
-| [Who Does This Belong To](./BinaryExploitation/WhoDoesThisBelongTo/README.md) | 250 | |
+| [Who Does This Belong To](./BinaryExploitation/WhoDoesThisBelongTo/README.md) | 250 | ✔️ |
 | [Party ROPin in the House](./BinaryExploitation/PartyROPinInTheHouse/README.md) | 300 | ✔️|
-| [Speed Racer](./BinaryExploitation/SpeedRacer/README.md) | 450 | |
+| [Speed Racer](./BinaryExploitation/SpeedRacer/README.md) | 450 | ✔️ |
 | [Look At The Totem](./BinaryExploitation/LookAtTheTotem/README.md) | 500 | |
 
 ## [Cryptography](./Cryptography/README.md)
@@ -41,10 +41,10 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Rotate Me](./Cryptography/RotateMe/README.md) | 5 | |
 | [Really Senseless Admins](./Cryptography/ReallySenselessAdmins/README.md) | 35 | |
 | [Over Time: Paid](./Cryptography/OverTimePaid/README.md) | 50 | |
-| [Speak Plainly](./Cryptography/SpeakPlainly/README.md) | 150 | |
+| [Speak Plainly](./Cryptography/SpeakPlainly/README.md) | 150 | ✔️ |
 | [Headpiece Silver](./Cryptography/HeadpieceSilver/README.md) | 200 | |
-| [We're Related](./Cryptography/WereRelated/README.md) | 250 | |
-| [Pigeon Holes](./Cryptography/PigeonHoles/README.md) | 350 | ✔️|
+| [We're Related](./Cryptography/WereRelated/README.md) | 250 | ✔️ |
+| [Pigeon Holes](./Cryptography/PigeonHoles/README.md) | 350 | ✔️ |
 
 ## [Forensics](./Forensics/README.md)
 
@@ -63,9 +63,9 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Turtles All the Way Down](./Forensics/TurtlesAllTheWayDown/README.md) | 100 | ✔️ |
 | [Boot Racer](./Forensics/BootRacer/README.md) | 150 | ✔️ |
 | [Sharing is Caring](./Forensics/SharingIsCaring/README.md) | 250 | ✔️ |
-| [Drill to the Center](./Forensics/DrillToTheCenterOfTheEarth/README.md) | 300 | |
+| [Drill to the Center](./Forensics/DrillToTheCenter/README.md) | 300 | |
 | [Needle in the Haystack](./Forensics/NeedleInTheHaystack/README.md) | 300 | |
-| [Kids on the Block](./Forensics/KidsOnTheBlock/README.md) | 400 | |
+| [Kids on the Block](./Forensics/KidsOnTheBlock/README.md) | 400 | ✔️ |
 
 ## [Miscellaneous](./Miscellaneous/README.md)
 
@@ -74,18 +74,16 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
-| [Distant Socializing](./Miscellaneous/DistantSocializing/README.md) | 2 | |
-| [Slacking Off](./Miscellaneous/StartSlacking/README.md) | 3 | |
 | [All Your Base Are Belong to Us](./Miscellaneous/AllYourBase/README.md) | 50 | |
-| [Move ZIG](./Miscellaneous/MoveZIG/README.md) | 75 | |
+| [Move ZIG](./Miscellaneous/MoveZIG/README.md) | 75 | ✔️ |
 | [Proxy List](./Miscellaneous/ProxyList/README.md) | 100 | ✔️ |
 | [Can You Look This Over?](./Miscellaneous/CanYouLookThisOver/README.md) | 150 | |
 | [Recovery And IDentification](./Miscellaneous/RecoveryAndIDentification/README.md) | 150 | |
 | [I SEe You](./Miscellaneous/ISEeYou/README.md) | 200 | ✔️ |
-| [Partition Twice, Recover Once](./Miscellaneous/PartitionTwiceRecoverOnce/README.md) | 250 | |
+| [Partition Twice, Recover Once](./Miscellaneous/PartitionTwiceRecoverOnce/README.md) | 250 | ✔️ |
 | [PassThis](./Miscellaneous/PassThis/README.md) | 250 | |
-| [Assembly Voyageur](./Miscellaneous/AssemblyVoyageur/README.md) | 300 | ✔️|
-| [UNO Reverse Card](./Miscellaneous/UNOReverseCard/README.md) | 300 | ✔️|
+| [Assembly Voyageur](./Miscellaneous/AssemblyVoyageur/README.md) | 300 | ✔️ |
+| [UNO Reverse Card](./Miscellaneous/UNOReverseCard/README.md) | 300 | ✔️ |
 
 ## [Reverse Engineering](./ReverseEngineering/README.md)
 
@@ -96,11 +94,11 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | -----------------------------|:-------:|:--------:|
 | [Reverse Engineering 101](./ReverseEngineering/ReverseEngineering101/README.md) | 25 | ✔️ |
 | [Lockbox](./ReverseEngineering/Lockbox/README.md) | 50 | |
-| [National Dex #65](./ReverseEngineering/NationalDex65/README.md) | 100 | |
+| [National Dex #65](./ReverseEngineering/NationalDex65/README.md) | 100 | ✔️ |
 | [Read it and Weep](./ReverseEngineering/ReadItAndWeep/README.md) | 100 | ✔️ |
 | [What's the Difference?](./ReverseEngineering/WhatsTheDifference/README.md) | 100 | |
 | [Library Card](./ReverseEngineering/LibraryCard/README.md) | 150 | ✔️ |
-| [Say What?](./ReverseEngineering/SayWhat/README.md) | 200 | |
+| [Say What?](./ReverseEngineering/SayWhat/README.md) | 200 | ✔️ |
 | [C&C Music Factory](./ReverseEngineering/CandCMusicFactory/README.md) | 300 | |
 | [CLRly just a crack-me](./ReverseEngineering/CLRlyJustACrackMe/README.md) | 300 | |
 | [Are You Maching Me](./ReverseEngineering/AreYouMachingMe/README.md) | 350 | |
@@ -122,7 +120,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Blame it on the Temp](./WebSecurity/BlameItOnTheTemp/README.md) | 150 | ✔️|
 | [The SQL Always Sucks](./WebSecurity/TheSQLAlwaysSucks/README.md) | 150 | |
 | [Cookie Monster](./WebSecurity/CookieMonster/README.md) | 200 | |
-| [I Have Caught You Now](./WebSecurity/IHaveCaughtYouNow/README.md) | 250 | |
+| [I Have Caught You Now](./WebSecurity/IHaveCaughtYouNow/README.md) | 250 | ✔️ |
 | [Extremely Malicious Language](./WebSecurity/ExtremelyMaliciousLanguage/README.md) | 300 | ✔️ |
-| [Who Is That In That Mirror](./WebSecurity/WhoIsThatInThatMirror/README.md) | 300 | |
+| [Who Is That In That Mirror](./WebSecurity/WhoIsThatInThatMirror/README.md) | 300 | ✔️ |
 | [FirstFail](./WebSecurity/FirstFail/README.md) | 400 | ✔️|

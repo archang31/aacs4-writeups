@@ -15,5 +15,4 @@ We found the encryptor ([encrypt](./encrypt)) but it won't decrypt [encrypted](.
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/national-dex-65)
