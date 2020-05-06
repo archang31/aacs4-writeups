@@ -99,7 +99,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [What's the Difference?](./ReverseEngineering/WhatsTheDifference/README.md) | 100 | |
 | [Library Card](./ReverseEngineering/LibraryCard/README.md) | 150 | ✔️ |
 | [Say What?](./ReverseEngineering/SayWhat/README.md) | 200 | ✔️ |
-| [C&C Music Factory](./ReverseEngineering/CandCMusicFactory/README.md) | 300 | |
+| [C&C Music Factory](./ReverseEngineering/CandCMusicFactory/README.md) | 300 | ✔️ |
 | [CLRly just a crack-me](./ReverseEngineering/CLRlyJustACrackMe/README.md) | 300 | |
 | [Are You Maching Me](./ReverseEngineering/AreYouMachingMe/README.md) | 350 | |
 | [Into the Metaverse](./ReverseEngineering/IntoTheMetaverse/README.md) | 450 | ✔️ |
@@ -123,4 +123,4 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [I Have Caught You Now](./WebSecurity/IHaveCaughtYouNow/README.md) | 250 | ✔️ |
 | [Extremely Malicious Language](./WebSecurity/ExtremelyMaliciousLanguage/README.md) | 300 | ✔️ |
 | [Who Is That In That Mirror](./WebSecurity/WhoIsThatInThatMirror/README.md) | 300 | ✔️ |
-| [FirstFail](./WebSecurity/FirstFail/README.md) | 400 | ✔️|
+| [FirstFail](./WebSecurity/FirstFail/README.md) | 400 | ✔️ |
