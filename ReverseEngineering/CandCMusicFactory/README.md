@@ -14,5 +14,5 @@ We've recovered a portion of the payload of a targeted malware campaign aimed at
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
+[Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=FyxkcxC701I&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG&index=5)
 
