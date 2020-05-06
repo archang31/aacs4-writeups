@@ -15,4 +15,4 @@ Sometimes websites are afraid of the terminator finding things out. http://{{ser
 
 ### Write-up
 
-[Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/DENIED.md)
+- [Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/DENIED.md)

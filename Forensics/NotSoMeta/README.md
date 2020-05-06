@@ -14,4 +14,4 @@ Look, it's the flag! Oh wait...it looks like we need to take a closer look... [n
 
 ### Write-up
 
-[Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Not-so-meta.md)
+- [Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Not-so-meta.md)

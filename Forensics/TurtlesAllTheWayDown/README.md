@@ -16,4 +16,4 @@ Early this morning, a breach occurred on the server hosting our next-gen drone d
 
 ### Write-up
 
-[Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/turtles-all-the-way-down.md)
+- [Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/turtles-all-the-way-down.md)
