@@ -115,7 +115,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [More Out of Site](./WebSecurity/MoreOutOfSite/README.md) | 10 | ✔️ |
 | [Most Out of Site](./WebSecurity/MostOutOfSite/README.md) | 20 | ✔️ |
 | [Let me INNNNNN](./WebSecurity/LetMeInnnnnn/README.md) | 40 | |
-| [No Escape](./WebSecurity/NoEscape/README.md) | 60 | |
+| [No Escape](./WebSecurity/NoEscape/README.md) | 60 | ✔️ |
 | [DENIED](./WebSecurity/DENIED/README.md) | 75 | ✔️ |
 | [Blame it on the Temp](./WebSecurity/BlameItOnTheTemp/README.md) | 150 | ✔️|
 | [The SQL Always Sucks](./WebSecurity/TheSQLAlwaysSucks/README.md) | 150 | |

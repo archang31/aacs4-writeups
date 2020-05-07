@@ -15,4 +15,20 @@ Since in-person events are currently banned, some magician we've never heard of 
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
+So you need to log in. Start by just putting `'` as both username and password. You then get this error:
+
+```
+Oops! It looks like the following query caused an error...
+SELECT username FROM users WHERE username = ''' AND pwHash = '265fda17a34611b1533d8a281ff680dc5791b0ce0a11c25b35e11c8e75685509'
+```
+
+So you now know the query. Try the very traditional `admin' OR 1=1; -- ` and you log in, but you do not get the flag. Instead, you get `Welcome admin! The "hash" for account 'houdini' is 'Not a hash'.`. Ok, so you need to log in as 'houdini'. So lets try this as 'houdini' with `houdini' OR 1=1; -- `. You get the same `Welcome admin! The "hash" for account 'houdini' is 'Not a hash'.`. So this is still matching the same user as before based on the 'Welcome admin!'. The issue is the `OR 1=1` part is just making and, mostlikely, returning the first match and 'admin' is early in the alphabet. Lets just try to sort with `houdini' OR 1=1 ORDER BY username DESC LIMIT 1; -- `. And that works!
+
+`Welcome Houdini, here's your flag: ACI{6a4352fb5adfa2bbccbe3a09965}`.
+
+Note:
+So I was super dumb and missed the obvious (but I noticed it doing this write-up)! Just do not do the `OR 1=1`. You can just log in with `houdini'; -- `. Problem solved.
+
+
+
+`houdini' OR 1=1 ORDER BY username DESC LIMIT 1; -- `
