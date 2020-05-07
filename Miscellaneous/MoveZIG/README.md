@@ -4,7 +4,7 @@
 
 ### Description
 
-CATS is back at it on {{server}}:{{port}}. Only this time he's throwing 500 problems at you. If you didn't use a program to solve the last one, you'll probably want [starter\_code.py](./starter\_code.py)...
+CATS is back at it on challenge.acictf.com:21191. Only this time he's throwing 500 problems at you. If you didn't use a program to solve the last one, you'll probably want [starter\_code.py](./starter\_code.py)...
 
 ### Hints
 

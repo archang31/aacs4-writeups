@@ -4,7 +4,7 @@
 
 ### Description
 
-It's time for an adventure. [Begin your travels here](http://{{server}}:{{port}}).
+It's time for an adventure. [Begin your travels here](http://challenge.acictf.com:31092/).
 
 ### Hints
 

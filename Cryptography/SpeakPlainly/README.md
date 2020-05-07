@@ -4,7 +4,7 @@
 
 ### Description
 
-There's something suspicious about how account logins happen on this server... ? http://{{server}}:{{port}}
+There's something suspicious about how account logins happen on this server... ? http://challenge.acictf.com:48438
 
 ### Hints
 

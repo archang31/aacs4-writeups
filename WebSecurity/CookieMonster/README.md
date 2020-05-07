@@ -4,7 +4,7 @@
 
 ### Description
 
-Lets make some yummy cookies! Maybe you can even find some extra tasty ones: http://{{server}}:{{port}}.
+Lets make some yummy cookies! Maybe you can even find some extra tasty ones: http://challenge.acictf.com:21188/.
 
 ### Hints
 
@@ -16,4 +16,3 @@ Lets make some yummy cookies! Maybe you can even find some extra tasty ones: htt
 ### Write-up
 
 No write-up or walk-through has been published for this challenge yet.
-

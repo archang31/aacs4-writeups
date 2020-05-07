@@ -4,8 +4,10 @@
 
 ### Description
 
-We discovered an application in our environment that is apparently under development. Please identify the risk it poses. http://{{server}}:{{port}}  
-  
+We discovered an application in our environment that is apparently under development. Please identify the risk it poses.
+
+**THIS PROBLEM HAS BEEN DISABLED**
+
 **Note:** Solutions to this problem are known to be sensitive to connection latency. If your solution is working but very slowly, you may be able to speed up the process by running it from the competition's [shell server](/shell).
 
 ### Hints
@@ -19,4 +21,3 @@ We discovered an application in our environment that is apparently under develop
 ### Write-up
 
 No write-up or walk-through has been published for this challenge yet.
-

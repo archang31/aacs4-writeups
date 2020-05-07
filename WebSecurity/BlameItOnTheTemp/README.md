@@ -4,7 +4,7 @@
 
 ### Description
 
-We had our intern create this awesome new secure file storage app! http://{{server}}:{{port}}
+We had our intern create this awesome new secure file storage app! http://challenge.acictf.com:41843
 
 ### Hints
 

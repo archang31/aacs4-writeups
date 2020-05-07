@@ -4,7 +4,7 @@
 
 ### Description
 
-There is a sick [ CYBER MAP ](http://{{server}}/problem/{{port}}/). See if you can gain RCE to execute ./flag!
+There is a sick [ CYBER MAP ](http://challenge.acictf.com/problem/54863/). See if you can gain RCE to execute ./flag!
 
 ### Hints
 

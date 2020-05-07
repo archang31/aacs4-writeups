@@ -14,5 +14,17 @@ We went to apply for a tax-filing extension with the IRS, and they replied with 
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
+Use `file` to determine the type of file and then interact with it as appropriate.
 
+```
+$ file flag.png
+flag.png: Zip archive data, at least v2.0 to extract
+$ mv flag.png flag.zip
+$ unzip flag.zip
+Archive:  flag.zip
+  inflating: flag.txt
+$ ls
+flag.txt  flag.zip
+$ cat flag.txt
+ACI{Something_witty_ec22b3a9}%
+```

@@ -4,7 +4,7 @@
 
 ### Description
 
-We've found a mysterious binary lying around... Can you read it's secrets? {{server}}:{{port}} [read\_it](./read\_it)
+We've found a mysterious binary lying around... Can you read it's secrets? challenge.acictf.com:40850 [read\_it](./read\_it)
 
 ### Hints
 

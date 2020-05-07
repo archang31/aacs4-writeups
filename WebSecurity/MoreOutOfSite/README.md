@@ -4,7 +4,7 @@
 
 ### Description
 
-Well that was embarrassing... Who knew there was more to a web site then what the browser showed? Not to worry, we're back with a new and improved Javascript version! http://{{server}}:{{port}}
+Well that was embarrassing... Who knew there was more to a web site then what the browser showed? Not to worry, we're back with a new and improved Javascript version! http://challenge.acictf.com:63225
 
 ### Hints
 
@@ -14,5 +14,22 @@ Well that was embarrassing... Who knew there was more to a web site then what th
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
+Instead of validating it within the HTML `<input>`, you see this line when you look at the html source.
 
+```
+<input type="text" id="flag" name="flag" placeholder="ACI{...}" onInput="check_flag()" required>
+```
+
+So you then need to view the JavaScript source [./flag_checker.js](./flag_checker.js). This line is the check:
+
+```
+if (flag == "ACI{client_side_fail_bb3503bf}") {
+        submit_button.disabled=false;
+        status_field.innerHTML = "";
+    } else {
+        submit_button.disabled=true;
+        status_field.innerHTML = "error: does not match flag";
+    }
+```
+
+Note: If you have a hard time seeing the source in your browser when you click on flag_check.js, view it as source in your browser with [view-source:http://challenge.acictf.com:24637/flag_checker.js](view-source:http://challenge.acictf.com:24637/flag_checker.js)

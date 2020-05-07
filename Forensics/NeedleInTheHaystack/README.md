@@ -4,7 +4,9 @@
 
 ### Description
 
-My PC crashed while I was running some program I found on the internet. I forgot what I typed into it, can you look through the [ram.img.tar.gz](./ram.img.tar.gz) to find it?
+My PC crashed while I was running some program I found on the internet. I forgot what I typed into it, can you look through the [ram.img.tar.gz](https://challenge.acictf.com/static/fd6851d0187f64596550b2f8b2b517e2/ram.img.tar.gz) to find it?
+
+**Note:** I did not download this locally due to size.
 
 ### Hints
 
@@ -16,4 +18,3 @@ My PC crashed while I was running some program I found on the internet. I forgot
 ### Write-up
 
 No write-up or walk-through has been published for this challenge yet.
-

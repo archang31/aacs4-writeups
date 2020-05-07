@@ -4,7 +4,7 @@
 
 ### Description
 
-Cars are just computers on wheels these days! See if you can extract the secret device key from this electronic key customization server: {{server}}:{{port}} [firmware\_server.py](./firmware\_server.py)
+Cars are just computers on wheels these days! See if you can extract the secret device key from this electronic key customization server: challenge.acictf.com:28973 [firmware\_server.py](./firmware\_server.py)
 
 ### Hints
 

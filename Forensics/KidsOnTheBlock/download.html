@@ -1,0 +1,90 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Kids on the Block</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="/static/bootstrap.min.css" rel="stylesheet">
+    <style>
+.monster {
+  position:fixed;
+  width:600px;
+  height:100%;
+  bottom: -380px;
+  right: 0px;
+  opacity: .5;
+  background-image: url(/static/cookie_monster.png);
+  background-repeat: no-repeat;
+  pointer-events: none;
+}
+    </style>
+
+    <!-- Custom styles for this template -->
+  </head>
+
+<body>
+<main role="main">
+<div class="container">
+<h1>Help!</h1>
+<h3>My computer has been ransomwared!</h3>
+<p>Last week when trying to find the latest episode of my favorite TV show, I *may* have accidentally clicked on the wrong link...</p>
+<p>My computer popped up a big error telling my my files have been encrypted... I had no choice to pay! Those word docs of song lyrics will be worth millions one day!</p>
+<p>I was asked to send <strong>2.5</strong> Ethereum to this address: <code>0xb4ba4b90df51d42a7c6093e92e1c7d22874c14f2</code>... about $450 at the time, pretty hefty but worth it I think.</p>
+<p>Now I want to save other people from being hacked as well. We might be able to trace where my Ethereum ended up in the blockchain. If you can find the path it took to get there, we might be able to catch this crook!!</p>
+</div>
+
+<div class="album py-5 bg-light">
+<div class="container">
+  <p>I am giving you a copy of a Ethereum blockchain. <a href="/chain.tar.gz">You can download it here.</a> Your task is to find the path of blockchain addresses which the <strong>2.5</strong> Ethereum followed, starting at <code>0xb4ba4b90df51d42a7c6093e92e1c7d22874c14f2</code>. Each address in this list is where the <strong>2.5</strong> Ethereum was placed.</p>
+  
+  <p>Note: Make sure to include contract addresses. Only include a contract address once if multiple operations were performed on it in a row. (<a href="/static/wallet.sol">Here is the source of a contract on the chain</a>)</p>
+  <p>The final address will have no outgoing transactions.</p>
+  
+  
+<form action="/check" method="POST">
+  <div class="form-group">
+  <div id="addresses">
+    <div class="input-group">
+		<div class="input-group-prepend">
+      <span class="input-group-text">Address 1 = </span>
+    </div>
+    <input class="form-control" name="address" value="0xb4ba4b90df51d42a7c6093e92e1c7d22874c14f2" readonly>
+    </div>
+    
+    <div class="input-group" style="margin-top: 10px">
+		<div class="input-group-prepend">
+      <span class="input-group-text">Address 2 = </span>
+    </div>
+    <input class="form-control" name="address" placeholder="Enter next address here!" value="">
+    </div>
+    
+  </div>
+  </div>
+  <button class="btn btn-info btn-block">Check</button>
+</form>
+</div>
+</div>
+</main>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script>
+let count = 2;
+let div = $('#addresses');
+let first = $(div.children()[div.children().length-1]);
+function make_new() {
+  let clone = first.clone();
+  div.append(clone);
+  $(this).off('keydown');
+  clone.on('keydown', make_new);
+  clone.find('.input-group-text').text(`Address ${++count} =`);
+  clone.find('input')[0].value='';
+}
+first.on('keydown', make_new);
+
+</script>
+</body>
+</html>

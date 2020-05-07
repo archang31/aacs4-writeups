@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Out of Site</title>
+</head>
+
+<body>
+  <h1>Out of Site</h1>
+  <h2>Flag Validation</h2>
+  <p>Look we gave you an easy way to check the flag before you officially submit it!  Best of all, it checks it <i>twice</i>:  once on your end and once on our end.</p>
+  <!-- Page Content -->
+  <div>
+    <form action="check" method="post">
+      <label for="flag"><b>Flag:</b></label>
+      <input type="text" id="flag" name="flag" placeholder="ACI{...}" pattern="ACI{hidden_in_plain_site_536af5dc}" required>
+      <input type="submit">
+    </form>
+  </div>
+
+</body>
+
+</html>

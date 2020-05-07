@@ -4,7 +4,7 @@
 
 ### Description
 
-XSS is a thing of the past! Read all about it here: http://{{server}}:{{port}}
+XSS is a thing of the past! Read all about it here: http://challenge.acictf.com:41956
 
 ### Hints
 

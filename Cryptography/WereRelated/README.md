@@ -4,7 +4,7 @@
 
 ### Description
 
-Recently, the Beacon Messenger App added support for one-time-read, 'disappearing' messages. We need you to find a flaw in their implementation, then decrypt an intercepted message provided to you upon connection. {{server}}:{{port}} [messenger.py](./messenger.py)
+Recently, the Beacon Messenger App added support for one-time-read, 'disappearing' messages. We need you to find a flaw in their implementation, then decrypt an intercepted message provided to you upon connection. challenge.acictf.com:41413 [messenger.py](./messenger.py)
 
 ### Hints
 

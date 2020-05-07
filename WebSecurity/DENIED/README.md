@@ -4,7 +4,7 @@
 
 ### Description
 
-Sometimes websites are afraid of the terminator finding things out. http://{{server}}:{{port}} The flag is in flag.txt.
+Sometimes websites are afraid of the terminator finding things out. http://challenge.acictf.com:15499/ The flag is in flag.txt.
 
 ### Hints
 

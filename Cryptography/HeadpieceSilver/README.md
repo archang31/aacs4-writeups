@@ -4,7 +4,7 @@
 
 ### Description
 
-Can you break our unbreakable crypto? {{server}}:{{port}}
+Can you break our unbreakable crypto? challenge.acictf.com:57715
 
 ### Hints
 
@@ -16,4 +16,3 @@ Can you break our unbreakable crypto? {{server}}:{{port}}
 ### Write-up
 
 No write-up or walk-through has been published for this challenge yet.
-

@@ -4,7 +4,7 @@
 
 ### Description
 
-Since in-person events are currently banned, some magician we've never heard of is trying to sell us on the idea of a "digital" magic show where the magician logs in using an impossible password. For added assurances, one lucky audience member is able to login and see the hash of the password as proof the password is impossible. We're willing to bet the secret to this magic trick is not all that complicated. http://{{server}}:{{port}}
+Since in-person events are currently banned, some magician we've never heard of is trying to sell us on the idea of a "digital" magic show where the magician logs in using an impossible password. For added assurances, one lucky audience member is able to login and see the hash of the password as proof the password is impossible. We're willing to bet the secret to this magic trick is not all that complicated. http://challenge.acictf.com:43248/
 
 ### Hints
 
@@ -16,4 +16,3 @@ Since in-person events are currently banned, some magician we've never heard of 
 ### Write-up
 
 No write-up or walk-through has been published for this challenge yet.
-

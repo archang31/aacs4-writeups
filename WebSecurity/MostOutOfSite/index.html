@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Most Out of Site</title>
+</head>
+
+<body>
+  <h1>Most Out of Site</h1>
+  <h2>Flag Validation 3.0</h2>
+  <p>Man web security is hard.  This time we know you won't get the flag from any of the source code we're serving up.  It's thoroughly hidden, but our client-side validation trick still works.  Give it another try!</p>
+  <!-- Page Content -->
+  <div>
+    <form id="flagChecker" name="flagChecker" action="check" method="post">
+      <label for="flag"><b>Flag:</b></label>
+      <input type="text" id="flag" name="flag" placeholder="ACI{...}" onInput="check_flag()" required>
+      <input type="submit" id="submit" name="submit" disabled>
+    </form>
+  </div>
+  <div id="status"></div>
+
+  <script src="flag_checker.js"></script>
+</body>
+
+</html>

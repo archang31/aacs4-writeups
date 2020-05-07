@@ -4,7 +4,7 @@
 
 ### Description
 
-We've done it! We found an open service that will run code we give it! It looks like the server is multithreaded though... Files: [uno](./uno). Listening on {{server}}:{{port}}
+We've done it! We found an open service that will run code we give it! It looks like the server is multithreaded though... Files: [uno](./uno). Listening on challenge.acictf.com:48355
 
 ### Hints
 

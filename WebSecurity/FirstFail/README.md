@@ -4,7 +4,7 @@
 
 ### Description
 
-We are devloping a new secure password manager! Test it out here: http://{{server}}:{{port}}
+We are devloping a new secure password manager! Test it out here: http://challenge.acictf.com:57799
 
 ### Hints
 

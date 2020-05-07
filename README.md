@@ -38,7 +38,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
-| [Rotate Me](./Cryptography/RotateMe/README.md) | 5 | |
+| [Rotate Me](./Cryptography/RotateMe/README.md) | 5 | ✔️ |
 | [Really Senseless Admins](./Cryptography/ReallySenselessAdmins/README.md) | 35 | |
 | [Over Time: Paid](./Cryptography/OverTimePaid/README.md) | 50 | |
 | [Speak Plainly](./Cryptography/SpeakPlainly/README.md) | 150 | ✔️ |
@@ -53,7 +53,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
-| [Filing Extension](./Forensics/FilingExtension/README.md) | 10 | |
+| [Filing Extension](./Forensics/FilingExtension/README.md) | 10 | ✔️ |
 | [Bootcamp](./Forensics/Bootcamp/README.md) | 20 | |
 | [Controlled Access](./Forensics/ControlledAccess/README.md) | 50 | |
 | [Not So Meta](./Forensics/NotSoMeta/README.md) | 50 | ✔️ |
@@ -111,9 +111,9 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
-| [Out of Site](./WebSecurity/OutOfSite/README.md) | 5 | |
-| [More Out of Site](./WebSecurity/MoreOutOfSite/README.md) | 10 | |
-| [Most Out of Site](./WebSecurity/MostOutOfSite/README.md) | 20 | |
+| [Out of Site](./WebSecurity/OutOfSite/README.md) | 5 | ✔️ |
+| [More Out of Site](./WebSecurity/MoreOutOfSite/README.md) | 10 | ✔️ |
+| [Most Out of Site](./WebSecurity/MostOutOfSite/README.md) | 20 | ✔️ |
 | [Let me INNNNNN](./WebSecurity/LetMeInnnnnn/README.md) | 40 | |
 | [No Escape](./WebSecurity/NoEscape/README.md) | 60 | |
 | [DENIED](./WebSecurity/DENIED/README.md) | 75 | ✔️ |
