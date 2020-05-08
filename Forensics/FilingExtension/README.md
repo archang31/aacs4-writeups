@@ -14,6 +14,8 @@ We went to apply for a tax-filing extension with the IRS, and they replied with 
 
 ### Write-up
 
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#filing-extension---points-10)
+
 Use `file` to determine the type of file and then interact with it as appropriate.
 
 ```

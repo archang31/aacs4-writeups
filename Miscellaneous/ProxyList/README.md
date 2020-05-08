@@ -16,3 +16,4 @@ We need you to perform geolocation analysis on this list of IPs. We have attribu
 ### Write-up
 
 - [Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Proxy-list.md)
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#proxy-list)

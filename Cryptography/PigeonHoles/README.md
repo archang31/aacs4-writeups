@@ -17,3 +17,4 @@ Cars are just computers on wheels these days! See if you can extract the secret 
 
 - [Write-up by flakjacket](https://github.com/flakjacket95/cyberstakes_2020/tree/master/crypto/pigeon_holes)
 - [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/pigeon-holes)
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/PigeonHoles)

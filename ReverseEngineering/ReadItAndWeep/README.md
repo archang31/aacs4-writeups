@@ -15,4 +15,5 @@ We've found a mysterious binary lying around... Can you read it's secrets? chall
 
 ### Write-up
 
-[Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=aBKY4kfnY_c&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG)
+- [Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=aBKY4kfnY_c&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG)
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/ReadItAndWeep)

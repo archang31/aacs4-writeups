@@ -15,3 +15,4 @@ This floppy disk [files.tar.gz](./files.tar.gz) boots, but instead of a flag we 
 ### Write-up
 
 - [Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Boot-riddle.md)
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/BootRiddle)

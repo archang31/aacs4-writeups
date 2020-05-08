@@ -15,5 +15,4 @@ We fired Julius, but the new guy apparently misplaced the file with our pivate k
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#really-senseless-admins---points-35)

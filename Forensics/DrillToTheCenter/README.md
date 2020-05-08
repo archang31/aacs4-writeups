@@ -14,5 +14,4 @@ It looks like our [drill](./drill) is [core](./core) - can you take a look at it
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/DrillToTheCenter)

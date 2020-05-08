@@ -6,7 +6,7 @@
 
 Of course it's safe to download programs ([npp.6.8.7.bin.minimalist.7z](./npp.6.8.7.bin.minimalist.7z)) from the internet. Although the official archive from https://notepad-plus-plus.org/repository/6.x/6.8.7/npp.6.8.7.bin.minimalist.7z is different ([official.npp.6.8.7.bin.minimalist.7z](./official.npp.6.8.7.bin.minimalist.7z))...
 
-**WARNING:** There apparently is some not very nice stuff in the npp source. This was not known prior to creating this challenge (who would have thought such a well-respected binary would have such trash). 
+**WARNING:** There apparently is some not very nice stuff in the npp source. This was not known prior to creating this challenge (who would have thought such a well-respected binary would have such trash).
 
 ### Hints
 
@@ -16,4 +16,4 @@ Of course it's safe to download programs ([npp.6.8.7.bin.minimalist.7z](./npp.6.
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/WhatsTheDifference)

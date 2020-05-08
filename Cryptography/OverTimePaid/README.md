@@ -15,5 +15,4 @@ After many months of hard work by our agents, we've gained access to a sensitive
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#over-time-paid---points-50)

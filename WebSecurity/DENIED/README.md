@@ -16,3 +16,4 @@ Sometimes websites are afraid of the terminator finding things out. http://chall
 ### Write-up
 
 - [Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/DENIED.md)
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#denied---points-75)

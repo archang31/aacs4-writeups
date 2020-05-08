@@ -31,4 +31,5 @@ Reverse engineering can definitely be intimidating so we have a simple [RE101](.
 
 ### Write-up
 
-[Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=9dQFM5O4KFk&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG)
+- [Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=9dQFM5O4KFk&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG)
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#reverse-engineering-101---points-25)

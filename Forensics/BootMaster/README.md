@@ -16,5 +16,4 @@ We found another floppy disk [files.tar.gz](./files.tar.gz), but we can't get th
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+ - [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/BootMaster)

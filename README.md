@@ -17,8 +17,8 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
-| [Binary Exploitation 101](./BinaryExploitation/BinaryExploitation101/README.md) | 50 | |
-| [Your Cup Overfloweth](./BinaryExploitation/YourCupOverfloweth/README.md) | 75 | |
+| [Binary Exploitation 101](./BinaryExploitation/BinaryExploitation101/README.md) | 50 | ✔️ |
+| [Your Cup Overfloweth](./BinaryExploitation/YourCupOverfloweth/README.md) | 75 | ✔️ |
 | [Hacker, Scan Thyself](./BinaryExploitation/HackerScanThyself/README.md) | 100 | ✔️ |
 | [Serial Killer](./BinaryExploitation/SerialKiller/README.md) | 100 | |
 | [Stack Check Fail Fail](./BinaryExploitation/StackCheckFailFail/README.md) | 150 | ✔️ |
@@ -37,8 +37,8 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
 | [Rotate Me](./Cryptography/RotateMe/README.md) | 5 | ✔️ |
-| [Really Senseless Admins](./Cryptography/ReallySenselessAdmins/README.md) | 35 | |
-| [Over Time: Paid](./Cryptography/OverTimePaid/README.md) | 50 | |
+| [Really Senseless Admins](./Cryptography/ReallySenselessAdmins/README.md) | 35 | ✔️ |
+| [Over Time: Paid](./Cryptography/OverTimePaid/README.md) | 50 | ✔️ |
 | [Speak Plainly](./Cryptography/SpeakPlainly/README.md) | 150 | ✔️ |
 | [Headpiece Silver](./Cryptography/HeadpieceSilver/README.md) | 200 | |
 | [We're Related](./Cryptography/WereRelated/README.md) | 250 | ✔️ |
@@ -52,16 +52,16 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
 | [Filing Extension](./Forensics/FilingExtension/README.md) | 10 | ✔️ |
-| [Bootcamp](./Forensics/Bootcamp/README.md) | 20 | |
-| [Controlled Access](./Forensics/ControlledAccess/README.md) | 50 | |
+| [Bootcamp](./Forensics/Bootcamp/README.md) | 20 | ✔️ |
+| [Controlled Access](./Forensics/ControlledAccess/README.md) | 50 | ✔️ |
 | [Not So Meta](./Forensics/NotSoMeta/README.md) | 50 | ✔️ |
-| [Boot Master](./Forensics/BootMaster/README.md) | 75 | |
+| [Boot Master](./Forensics/BootMaster/README.md) | 75 | ✔️ |
 | [Boot Riddle](./Forensics/BootRiddle/README.md) | 100 | ✔️ |
 | [That's More Than Enough](./Forensics/ThatsMoreThanEnough/README.md) | 100 | |
 | [Turtles All the Way Down](./Forensics/TurtlesAllTheWayDown/README.md) | 100 | ✔️ |
 | [Boot Racer](./Forensics/BootRacer/README.md) | 150 | ✔️ |
 | [Sharing is Caring](./Forensics/SharingIsCaring/README.md) | 250 | ✔️ |
-| [Drill to the Center](./Forensics/DrillToTheCenter/README.md) | 300 | |
+| [Drill to the Center](./Forensics/DrillToTheCenter/README.md) | 300 | ✔️ |
 | [Needle in the Haystack](./Forensics/NeedleInTheHaystack/README.md) | 300 | |
 | [Kids on the Block](./Forensics/KidsOnTheBlock/README.md) | 400 | ✔️ |
 
@@ -72,14 +72,14 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
-| [All Your Base Are Belong to Us](./Miscellaneous/AllYourBase/README.md) | 50 | |
+| [All Your Base Are Belong to Us](./Miscellaneous/AllYourBase/README.md) | 50 | ✔️ |
 | [Move ZIG](./Miscellaneous/MoveZIG/README.md) | 75 | ✔️ |
 | [Proxy List](./Miscellaneous/ProxyList/README.md) | 100 | ✔️ |
 | [Can You Look This Over?](./Miscellaneous/CanYouLookThisOver/README.md) | 150 | |
 | [Recovery And IDentification](./Miscellaneous/RecoveryAndIDentification/README.md) | 150 | |
 | [I SEe You](./Miscellaneous/ISEeYou/README.md) | 200 | ✔️ |
 | [Partition Twice, Recover Once](./Miscellaneous/PartitionTwiceRecoverOnce/README.md) | 250 | ✔️ |
-| [PassThis](./Miscellaneous/PassThis/README.md) | 250 | |
+| [PassThis](./Miscellaneous/PassThis/README.md) | 250 | ➖ |
 | [Assembly Voyageur](./Miscellaneous/AssemblyVoyageur/README.md) | 300 | ✔️ |
 | [UNO Reverse Card](./Miscellaneous/UNOReverseCard/README.md) | 300 | ✔️ |
 
@@ -91,10 +91,10 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | Challenge Name               | Points  | Write-up |
 | -----------------------------|:-------:|:--------:|
 | [Reverse Engineering 101](./ReverseEngineering/ReverseEngineering101/README.md) | 25 | ✔️ |
-| [Lockbox](./ReverseEngineering/Lockbox/README.md) | 50 | |
+| [Lockbox](./ReverseEngineering/Lockbox/README.md) | 50 | ✔️ |
 | [National Dex #65](./ReverseEngineering/NationalDex65/README.md) | 100 | ✔️ |
 | [Read it and Weep](./ReverseEngineering/ReadItAndWeep/README.md) | 100 | ✔️ |
-| [What's the Difference?](./ReverseEngineering/WhatsTheDifference/README.md) | 100 | |
+| [What's the Difference?](./ReverseEngineering/WhatsTheDifference/README.md) | 100 | ✔️ |
 | [Library Card](./ReverseEngineering/LibraryCard/README.md) | 150 | ✔️ |
 | [Say What?](./ReverseEngineering/SayWhat/README.md) | 200 | ✔️ |
 | [C&C Music Factory](./ReverseEngineering/CandCMusicFactory/README.md) | 300 | ✔️ |
@@ -112,7 +112,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Out of Site](./WebSecurity/OutOfSite/README.md) | 5 | ✔️ |
 | [More Out of Site](./WebSecurity/MoreOutOfSite/README.md) | 10 | ✔️ |
 | [Most Out of Site](./WebSecurity/MostOutOfSite/README.md) | 20 | ✔️ |
-| [Let me INNNNNN](./WebSecurity/LetMeInnnnnn/README.md) | 40 | |
+| [Let me INNNNNN](./WebSecurity/LetMeInnnnnn/README.md) | 40 | ✔️ |
 | [No Escape](./WebSecurity/NoEscape/README.md) | 60 | ✔️ |
 | [DENIED](./WebSecurity/DENIED/README.md) | 75 | ✔️ |
 | [Blame it on the Temp](./WebSecurity/BlameItOnTheTemp/README.md) | 150 | ✔️|

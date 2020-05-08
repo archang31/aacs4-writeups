@@ -15,6 +15,8 @@ Alright, one more try. We had to think long and hard about how to keep you from 
 
 ### Write-up
 
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#most-out-of-site---points-20)
+
 Same as before, but the string that it is checked against is not directly in the JavaScript. Looking at [./flag_checker.js](./flag_checker.js), you can see it gets the flag with this line: `var secret_flag = get_cookie("most_out_of_site_flag");`. It is checking against your cookie so let's go check out our network traffic (developer tools->network). Look at the response header when you visit http://challenge.acictf.com:35515/, you see:
 
 ```

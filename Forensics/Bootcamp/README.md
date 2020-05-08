@@ -16,5 +16,4 @@ We found an old floppy-drive laying around and think that there may be a flag hi
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#bootcamp---points-20)

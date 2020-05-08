@@ -15,6 +15,8 @@ Since in-person events are currently banned, some magician we've never heard of 
 
 ### Write-up
 
+- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#no-escape---points-60)
+
 So you need to log in. Start by just putting `'` as both username and password. You then get this error:
 
 ```
