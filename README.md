@@ -4,8 +4,6 @@ Write-ups and Walk-throughs for the challenges in All-Army CyberStakes 4 (AACS 4
 
 I am accepting Pull Requests. If you have a write-up that you want included (linked), please let me know!
 
-**NOTE:** This repo is still the resources for these challenges, and they will be added once the competition returns in training mode.
-
 ## Acknowledgements
 
 I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI) for putting together this amazing competition and financially supporting it year after year. In particular, I want to recognize the hard work of [Roy Ragsdale](https://github.com/royragsdale) who was the driving force behind the continuation of All-Army CyberStakes and spent countless hours both championing CTFing as a learning mechanism as well as pouring his sweat and certainly tears into picoCTF platform upgrades (like the on-demand challenges you all know and love). Finally, I want to recognize the amazing work done by [GRIMM](https://www.grimm-co.com/) (all capitals!) - they created some amazing challenges this year and helped make AACS 4 a big success.
@@ -24,12 +22,12 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Hacker, Scan Thyself](./BinaryExploitation/HackerScanThyself/README.md) | 100 | ✔️ |
 | [Serial Killer](./BinaryExploitation/SerialKiller/README.md) | 100 | |
 | [Stack Check Fail Fail](./BinaryExploitation/StackCheckFailFail/README.md) | 150 | ✔️ |
-| [An Interesting Structure](./BinaryExploitation/AnInterestingStructure/README.md) | 250 | |
+| [An Interesting Structure](./BinaryExploitation/AnInterestingStructure/README.md) | 250 | ✔️ |
 | [Do you C what I C](./BinaryExploitation/DoYouCWhatIC/README.md) | 250 | ✔️ |
 | [Who Does This Belong To](./BinaryExploitation/WhoDoesThisBelongTo/README.md) | 250 | ✔️ |
 | [Party ROPin in the House](./BinaryExploitation/PartyROPinInTheHouse/README.md) | 300 | ✔️|
 | [Speed Racer](./BinaryExploitation/SpeedRacer/README.md) | 450 | ✔️ |
-| [Look At The Totem](./BinaryExploitation/LookAtTheTotem/README.md) | 500 | |
+| [Look At The Totem](./BinaryExploitation/LookAtTheTotem/README.md) | 500 | ✔️ |
 
 ## [Cryptography](./Cryptography/README.md)
 

@@ -16,3 +16,4 @@ It's time for an adventure. [Begin your travels here](http://challenge.acictf.co
 
 - [Write-up by flakjacket](https://github.com/flakjacket95/cyberstakes_2020/tree/master/misc/assembly_voyageur)
 - [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/assembly-voyageur)
+- [Write-up by starfleetcadet75](http://starfleetcadet75.github.io/writeups/2020/05/03/cyberstakes-assembly-voyageur.html)

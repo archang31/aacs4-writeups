@@ -28,7 +28,3 @@ So you now know the query. Try the very traditional `admin' OR 1=1; -- ` and you
 
 Note:
 So I was super dumb and missed the obvious (but I noticed it doing this write-up)! Just do not do the `OR 1=1`. You can just log in with `houdini'; -- `. Problem solved.
-
-
-
-`houdini' OR 1=1 ORDER BY username DESC LIMIT 1; -- `
