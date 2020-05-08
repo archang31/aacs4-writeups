@@ -20,7 +20,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Binary Exploitation 101](./BinaryExploitation/BinaryExploitation101/README.md) | 50 | ✔️ |
 | [Your Cup Overfloweth](./BinaryExploitation/YourCupOverfloweth/README.md) | 75 | ✔️ |
 | [Hacker, Scan Thyself](./BinaryExploitation/HackerScanThyself/README.md) | 100 | ✔️ |
-| [Serial Killer](./BinaryExploitation/SerialKiller/README.md) | 100 | |
+| [Serial Killer](./BinaryExploitation/SerialKiller/README.md) | 100 | ✔️ |
 | [Stack Check Fail Fail](./BinaryExploitation/StackCheckFailFail/README.md) | 150 | ✔️ |
 | [An Interesting Structure](./BinaryExploitation/AnInterestingStructure/README.md) | 250 | ✔️ |
 | [Do you C what I C](./BinaryExploitation/DoYouCWhatIC/README.md) | 250 | ✔️ |
