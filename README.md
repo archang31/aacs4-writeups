@@ -4,6 +4,8 @@ Write-ups and Walk-throughs for the challenges in All-Army CyberStakes 4 (AACS 4
 
 I am accepting Pull Requests. If you have a write-up that you want included (linked), please let me know!
 
+![acictf](https://github.com/eesantiago/Writeups/blob/master/CyberStakes_2020/acictf.JPG)
+
 ## Acknowledgements
 
 I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI) for putting together this amazing competition and financially supporting it year after year. In particular, I want to recognize the hard work of [Roy Ragsdale](https://github.com/royragsdale) who was the driving force behind the continuation of All-Army CyberStakes and spent countless hours both championing CTFing as a learning mechanism as well as pouring his sweat and certainly tears into picoCTF platform upgrades (like the on-demand challenges you all know and love). Finally, I want to recognize the amazing work done by [GRIMM](https://www.grimm-co.com/) (all capitals!) - they created some amazing challenges this year and helped make AACS 4 a big success.
@@ -57,7 +59,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Not So Meta](./Forensics/NotSoMeta/README.md) | 50 | ✔️ |
 | [Boot Master](./Forensics/BootMaster/README.md) | 75 | ✔️ |
 | [Boot Riddle](./Forensics/BootRiddle/README.md) | 100 | ✔️ |
-| [That's More Than Enough](./Forensics/ThatsMoreThanEnough/README.md) | 100 | |
+| [That's More Than Enough](./Forensics/ThatsMoreThanEnough/README.md) | 100 | ✔️ |
 | [Turtles All the Way Down](./Forensics/TurtlesAllTheWayDown/README.md) | 100 | ✔️ |
 | [Boot Racer](./Forensics/BootRacer/README.md) | 150 | ✔️ |
 | [Sharing is Caring](./Forensics/SharingIsCaring/README.md) | 250 | ✔️ |
@@ -75,7 +77,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [All Your Base Are Belong to Us](./Miscellaneous/AllYourBase/README.md) | 50 | ✔️ |
 | [Move ZIG](./Miscellaneous/MoveZIG/README.md) | 75 | ✔️ |
 | [Proxy List](./Miscellaneous/ProxyList/README.md) | 100 | ✔️ |
-| [Can You Look This Over?](./Miscellaneous/CanYouLookThisOver/README.md) | 150 | |
+| [Can You Look This Over?](./Miscellaneous/CanYouLookThisOver/README.md) | 150 | ✔️ |
 | [Recovery And IDentification](./Miscellaneous/RecoveryAndIDentification/README.md) | 150 | |
 | [I SEe You](./Miscellaneous/ISEeYou/README.md) | 200 | ✔️ |
 | [Partition Twice, Recover Once](./Miscellaneous/PartitionTwiceRecoverOnce/README.md) | 250 | ✔️ |
@@ -116,8 +118,8 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [No Escape](./WebSecurity/NoEscape/README.md) | 60 | ✔️ |
 | [DENIED](./WebSecurity/DENIED/README.md) | 75 | ✔️ |
 | [Blame it on the Temp](./WebSecurity/BlameItOnTheTemp/README.md) | 150 | ✔️|
-| [The SQL Always Sucks](./WebSecurity/TheSQLAlwaysSucks/README.md) | 150 | |
-| [Cookie Monster](./WebSecurity/CookieMonster/README.md) | 200 | |
+| [The SQL Always Sucks](./WebSecurity/TheSQLAlwaysSucks/README.md) | 150 | ✔️ |
+| [Cookie Monster](./WebSecurity/CookieMonster/README.md) | 200 | ✔️ |
 | [I Have Caught You Now](./WebSecurity/IHaveCaughtYouNow/README.md) | 250 | ✔️ |
 | [Extremely Malicious Language](./WebSecurity/ExtremelyMaliciousLanguage/README.md) | 300 | ✔️ |
 | [Who Is That In That Mirror](./WebSecurity/WhoIsThatInThatMirror/README.md) | 300 | ✔️ |

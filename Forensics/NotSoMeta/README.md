@@ -15,3 +15,4 @@ Look, it's the flag! Oh wait...it looks like we need to take a closer look... [n
 ### Write-up
 
 - [Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Not-so-meta.md)
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/not_so_meta)

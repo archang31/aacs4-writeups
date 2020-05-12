@@ -15,3 +15,4 @@ It looks like our [drill](./drill) is [core](./core) - can you take a look at it
 ### Write-up
 
 - [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/DrillToTheCenter)
+- [Write-up by Nic Hartley](https://nic-hartley.github.io/acictf-writeups/drill-to-the-center)

@@ -20,4 +20,4 @@ We discovered an application in our environment that is apparently under develop
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/sql_always_sucks)

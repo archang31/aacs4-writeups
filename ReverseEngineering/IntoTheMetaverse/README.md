@@ -18,4 +18,5 @@ We extracted the DRM module from a target device but haven't been able to revers
 - [Write-up by starfleetcadet75](https://starfleetcadet75.github.io/writeups/2020/05/03/cyberstakes-into-the-metaverse.html)
 - [Video Walk-through by Tim Nosco](https://www.youtube.com/watch?v=1oRm529jI34&list=PL-nPhof8EyrGKytps3g582KNiJyIAOtBG)
 - [Write-up by flakjacket](https://github.com/flakjacket95/cyberstakes_2020/tree/master/re/into_the_metaverse)
-- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/into-the-metaverse)
+- [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/into-the-metaverse)\
+- [Write-up by Nic Hartley](https://nic-hartley.github.io/acictf-writeups/into-the-metaverse/)

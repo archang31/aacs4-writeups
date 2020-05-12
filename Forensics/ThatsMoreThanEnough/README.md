@@ -14,5 +14,4 @@ We think Jolly Jeff is up to no good. See if you can find the hidden message in 
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/thats_more_than_enough)

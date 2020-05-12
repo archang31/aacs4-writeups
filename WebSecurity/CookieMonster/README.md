@@ -15,4 +15,4 @@ Lets make some yummy cookies! Maybe you can even find some extra tasty ones: htt
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/cookie_monster)

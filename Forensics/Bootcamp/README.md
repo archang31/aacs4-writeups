@@ -17,3 +17,4 @@ We found an old floppy-drive laying around and think that there may be a flag hi
 ### Write-up
 
 - [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#bootcamp---points-20)
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/boot_camp)

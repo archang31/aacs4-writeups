@@ -15,4 +15,5 @@ We've been asked to help a certificate authority figure out what a [device](http
 ### Write-up
 
 - [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020#controlled-access---points-50)
-- [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/ControlledAccess)
+- [Write-up by starkindustries Pt2](https://github.com/starkindustries/CyberStakes2020/tree/master/ControlledAccess)
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/controlled_access)

@@ -14,3 +14,4 @@ We've found one last floppy disk [files.tar.gz](./files.tar.gz) that boots, but 
 ### Write-up
 
 - [Write-up by allpurposebucket](https://github.com/allpurposebucket/CTF-Writeups/blob/master/ACICTF/Boot-racer.md)
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/boot_racer)

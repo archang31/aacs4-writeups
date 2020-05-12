@@ -17,3 +17,4 @@ Help! I was ransomwared and payed the ransom. Now I want to track my coins down 
 
 - [Write-up by welchbj](https://github.com/welchbj/ctf/tree/master/writeups/2020/CyberStakes/kids-on-the-block)
 - [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/KidsOnTheBlock)
+- [Write-up by Nic Hartley](https://nic-hartley.github.io/acictf-writeups/kids-on-the-block)

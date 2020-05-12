@@ -17,3 +17,4 @@ We found another floppy disk [files.tar.gz](./files.tar.gz), but we can't get th
 ### Write-up
 
  - [Write-up by starkindustries](https://github.com/starkindustries/CyberStakes2020/tree/master/BootMaster)
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/boot_master)

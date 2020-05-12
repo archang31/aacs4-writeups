@@ -16,5 +16,4 @@ Our ops guys found a malware author's staging server, we managed to exfiltrate t
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/can_you_look_this_over)
