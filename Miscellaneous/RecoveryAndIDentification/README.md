@@ -15,5 +15,4 @@ Given two out of three disk images used in a RAID array, see if you can recover 
 
 ### Write-up
 
-No write-up or walk-through has been published for this challenge yet.
-
+- [Write-up by eesantiago](https://github.com/eesantiago/Writeups/tree/master/CyberStakes_2020/recovery_and_identification)

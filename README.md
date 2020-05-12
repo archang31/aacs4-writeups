@@ -78,7 +78,7 @@ I want to directly acknowledge and sincerely thank the Army Cyber Institute (ACI
 | [Move ZIG](./Miscellaneous/MoveZIG/README.md) | 75 | ✔️ |
 | [Proxy List](./Miscellaneous/ProxyList/README.md) | 100 | ✔️ |
 | [Can You Look This Over?](./Miscellaneous/CanYouLookThisOver/README.md) | 150 | ✔️ |
-| [Recovery And IDentification](./Miscellaneous/RecoveryAndIDentification/README.md) | 150 | |
+| [Recovery And IDentification](./Miscellaneous/RecoveryAndIDentification/README.md) | 150 | ✔️ |
 | [I SEe You](./Miscellaneous/ISEeYou/README.md) | 200 | ✔️ |
 | [Partition Twice, Recover Once](./Miscellaneous/PartitionTwiceRecoverOnce/README.md) | 250 | ✔️ |
 | [PassThis](./Miscellaneous/PassThis/README.md) | 250 | ➖ |
